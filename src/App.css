@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+/* GeoBloom-inspired solar palette */
+@theme {
+  --color-indigo-50: #fff8e8;
+  --color-indigo-100: #fce8ba;
+  --color-indigo-200: #f3d48b;
+  --color-indigo-300: #e8b94d;
+  --color-indigo-400: #dd9900;
+  --color-indigo-500: #dd9300;
+  --color-indigo-600: #dd9300;
+  --color-indigo-700: #b87700;
+  --color-indigo-800: #8c5b00;
+  --color-indigo-900: #604000;
+  --color-indigo-950: #3f2900;
+
+  --color-violet-50: #f8ffd5;
+  --color-violet-100: #f0ff9e;
+  --color-violet-200: #e2fa5a;
+  --color-violet-300: #ddf800;
+  --color-violet-400: #c5de00;
+  --color-violet-500: #aabd00;
+  --color-violet-600: #7e8c00;
+  --color-violet-700: #626d00;
+  --color-violet-800: #4d5600;
+  --color-violet-900: #3e4500;
+  --color-violet-950: #222600;
+
+  --color-purple-50: #f8ffd5;
+  --color-purple-100: #f0ff9e;
+  --color-purple-200: #e2fa5a;
+  --color-purple-300: #ddf800;
+  --color-purple-400: #c5de00;
+  --color-purple-500: #aabd00;
+  --color-purple-600: #7e8c00;
+  --color-purple-700: #626d00;
+  --color-purple-800: #4d5600;
+  --color-purple-900: #3e4500;
+  --color-purple-950: #222600;
+
+  --color-blue-50: #f1f3f6;
+  --color-blue-100: #e4e8ee;
+  --color-blue-200: #cbd2dd;
+  --color-blue-300: #a7b1c1;
+  --color-blue-400: #74819a;
+  --color-blue-500: #4c5b78;
+  --color-blue-600: #34415f;
+  --color-blue-700: #27334f;
+  --color-blue-800: #1f2942;
+  --color-blue-900: #1b2540;
+  --color-blue-950: #11182c;
+
+  --color-emerald-50: #f1fbef;
+  --color-emerald-100: #daf4d4;
+  --color-emerald-200: #b5e9a9;
+  --color-emerald-300: #7fd76e;
+  --color-emerald-400: #34d399;
+  --color-emerald-500: #0f9f58;
+  --color-emerald-600: #00641f;
+  --color-emerald-700: #00531b;
+  --color-emerald-800: #003d15;
+  --color-emerald-900: #003310;
+  --color-emerald-950: #001d09;
+}
+
+:root {
+  --solar-navy: #1b2540;
+  --solar-gold: #dd9300;
+  --solar-lime: #e2fa5a;
+  --solar-lime-bright: #ddf800;
+  --solar-ink: #000000;
+  --solar-muted: #585858;
+  --solar-surface: #fafafa;
+  --solar-border: #e6e6e6;
+}
